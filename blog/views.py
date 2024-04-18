@@ -12,7 +12,7 @@ all_posts = [
         "slug": "hike-in-the-mountains",
         "image": "mountains.jpg",
         "author": "Maximilian",
-        "date": date(2021, 7, 21),
+        "date": date(2024, 3, 21),
         "title": "Mountain Hiking",
         "excerpt": "There's nothing like the views you get when hiking in the mountains! And I wasn't even prepared for what happened whilst I was enjoying the view!",
         "content": """
@@ -54,8 +54,29 @@ all_posts = [
         "slug": "into-the-woods",
         "image": "woods.jpg",
         "author": "Martin",
-        "date": date(2020, 8, 5),
+        "date": date(2024, 1, 5),
         "title": "Nature At Its Best",
+        "excerpt": "Nature is amazing! The amount of inspiration I get when walking in nature is incredible!",
+        "content": """
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
+          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
+          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
+
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
+          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
+          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
+
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
+          aperiam est praesentium, quos iste consequuntur omnis exercitationem quam
+          velit labore vero culpa ad mollitia? Quis architecto ipsam nemo. Odio.
+        """
+    },
+    {
+        "slug": "test-test",
+        "image": "test.jpg",
+        "author": "Martin",
+        "date": date(2024, 4, 18),
+        "title": "Test",
         "excerpt": "Nature is amazing! The amount of inspiration I get when walking in nature is incredible!",
         "content": """
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis nobis
